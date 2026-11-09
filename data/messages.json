@@ -1,0 +1,41 @@
+[
+  {
+    "id": "msg_f2c75d88-019c-4eec-bc6e-312b4ecd241a",
+    "name": "Recruiter Verification",
+    "email": "recruiter@example.com",
+    "subject": "AI Role Discussion",
+    "message": "Testing live contact form submission.",
+    "createdAt": "2026-11-09T17:37:00.471Z",
+    "read": false,
+    "ipHash": "12ca17b49a"
+  },
+  {
+    "id": "msg_52d0b0d6-04b7-4920-8a0d-ab54e83a85c1",
+    "name": "Venture Partner",
+    "email": "partner@ai-seed.capital",
+    "subject": "Seed Investment & Engineering Partnership",
+    "message": "Debdulal, loving the redesigned architecture and live multi-agent demos on ToolsVerse AI.",
+    "createdAt": "2026-11-09T16:45:12.237Z",
+    "read": false,
+    "ipHash": "12ca17b49a"
+  },
+  {
+    "id": "msg_9c0a336a-72b3-43b5-a616-67e7db282805",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@techventure.ai",
+    "subject": "AI/ML Opportunity at AI Venture",
+    "message": "Hi Debdulal, we reviewed your work on ToolsVerse AI and SivInd AI and would love to discuss a remote role with our team.",
+    "createdAt": "2026-11-09T16:31:46.987Z",
+    "read": false,
+    "ipHash": "12ca17b49a"
+  },
+  {
+    "id": "welcome-001",
+    "name": "System Welcome",
+    "email": "system@debdulalsahoo.dev",
+    "subject": "Portfolio Inquiries Inbox Ready",
+    "message": "Welcome Debdulal! Your secure portfolio inbox is initialized. Visitors who submit the contact form will have their inquiries stored here safely.",
+    "createdAt": "2026-11-09T16:31:39.370Z",
+    "read": true
+  }
+]
